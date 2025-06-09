@@ -1,10 +1,20 @@
-﻿namespace ConsoleApp1
+﻿using System.Xml.Xsl;
+
+namespace ConsoleApp1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+            Console.WriteLine("ingrese un numero porfavor");
+            
+            //holaaaaaaaaaaaaaaaaaaaaaaa
+
+            
+
+
+
         }
     }
 }
